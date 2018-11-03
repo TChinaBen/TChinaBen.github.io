@@ -1,2 +1,2 @@
 # TChinaBen.github.io
-javabug 制造者
+https://github.com/TChinaBen/JavaSmallGame
